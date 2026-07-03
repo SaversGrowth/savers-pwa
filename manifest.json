@@ -8,17 +8,16 @@
   "theme_color": "#0B8A3C",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "https://saversgrowth.github.io/savers-pwa/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://saversgrowth.github.io/savers-pwa/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
+  {
+    "src": "https://saversgrowth.github.io/savers-pwa/playstore.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any maskable"
+  },
+  {
+    "src": "https://saversgrowth.github.io/savers-pwa/appstore.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }
+]
