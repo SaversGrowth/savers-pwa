@@ -1,0 +1,24 @@
+{
+  "name": "Savers Growth System",
+  "short_name": "Savers",
+  "description": "Save Today. Grow Tomorrow. Together.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B8A3C",
+  "theme_color": "#0B8A3C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://SaversGrowth.github.io/savers-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://YOUR_USERNAME.github.io/savers-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
